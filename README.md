@@ -1,6 +1,7 @@
 Dataset from OpenBook QA 
 
 Contributors:
+
 Haiyun Lyu has been responsible for the model
 training and connection for the frontend and
 backend. She used PyTorch with Transformer and
